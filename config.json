@@ -1,13 +1,13 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "AustinMSD",
+        	"url": "17qmcMS1nbRJoWtaqzWYJtPBTDRGF1j196",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "AustinMSD",
+        	"url": "17qmcMS1nbRJoWtaqzWYJtPBTDRGF1j196",
 		"timeout": 150
 	},
 	{
